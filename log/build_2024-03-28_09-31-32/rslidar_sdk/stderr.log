@@ -1,0 +1,26 @@
+[0m=============================================================[0m
+[0m-- POINT_TYPE is XYZI[0m
+[0m=============================================================[0m
+[0m=============================================================[0m
+[0m-- ROS Not Found. ROS Support is turned Off.[0m
+[0m=============================================================[0m
+[0m=============================================================[0m
+[0m-- ROS2 Found. ROS2 Support is turned On.[0m
+[0m=============================================================[0m
+[31mCMake Error at CMakeLists.txt:139 (find_package):
+  By not providing "Findrslidar_msg.cmake" in CMAKE_MODULE_PATH this project
+  has asked CMake to find a package configuration file provided by
+  "rslidar_msg", but CMake did not find one.
+
+  Could not find a package configuration file provided by "rslidar_msg" with
+  any of the following names:
+
+    rslidar_msgConfig.cmake
+    rslidar_msg-config.cmake
+
+  Add the installation prefix of "rslidar_msg" to CMAKE_PREFIX_PATH or set
+  "rslidar_msg_DIR" to a directory containing one of the above files.  If
+  "rslidar_msg" provides a separate development package or SDK, be sure it
+  has been installed.
+
+[0m

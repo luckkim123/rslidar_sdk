@@ -1,0 +1,2 @@
+Invoking command in '/home/dgist/catkin_ws/src/rslidar_sdk/build/rslidar_sdk': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/dgist/catkin_ws/src/rslidar_sdk -DCMAKE_INSTALL_PREFIX=/home/dgist/catkin_ws/src/rslidar_sdk/install/rslidar_sdk
+Invoked command in '/home/dgist/catkin_ws/src/rslidar_sdk/build/rslidar_sdk' returned '1': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/dgist/catkin_ws/src/rslidar_sdk -DCMAKE_INSTALL_PREFIX=/home/dgist/catkin_ws/src/rslidar_sdk/install/rslidar_sdk
