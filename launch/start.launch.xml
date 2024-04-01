@@ -1,5 +1,5 @@
 <launch>
-  <arg name="config_path" value="$(find-pkg-share rslidar_sdk)"/>
+  <arg name="config_path" default="$(find-pkg-share rslidar_sdk)"/>
   <node pkg="rslidar_sdk" name="rslidar_sdk_node" type="rslidar_sdk_node" output="screen">
     <param name="config_path" value="$(var config_path)"/>
   </node>
